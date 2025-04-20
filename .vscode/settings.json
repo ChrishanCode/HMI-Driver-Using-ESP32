@@ -1,0 +1,7 @@
+{
+    "idf.pythonInstallPath": "C:\\Users\\LENOVO\\.espressif\\tools\\idf-python\\3.8.7\\python.exe",
+    "C_Cpp.default.compilerPath": "C:/Users/LENOVO/.platformio/packages/toolchain-xtensa-esp32/bin/xtensa-esp32-elf-gcc.exe",
+    "idf.espIdfPathWin": "C:\\Users\\LENOVO\\esp\\v4.4.8\\esp-idf",
+    "idf.toolsPathWin": "C:\\Users\\LENOVO\\.espressif",
+    "idf.portWin": "COM3"
+}
